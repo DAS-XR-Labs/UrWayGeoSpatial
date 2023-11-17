@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3582382990263752425
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3582382990263752431}
+  - component: {fileID: 3582382990263752430}
+  m_Layer: 0
+  m_Name: DealsManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &3582382990263752431
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3582382990263752425}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3582382990263752430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3582382990263752425}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03c411bb4d21548e68b56e17fad69e75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isEnabled: 0
+  mockDeals:
+  - company_name: 'VicM Space museum '
+    deal_description: VicM Space museum deal description
+    location:
+      lat: 52.23223
+      lng: 20.987694
+    deal_count: 10
+  - company_name: VicM zabka
+    deal_description: 'VicM  zabka deal description '
+    location:
+      lat: 52.2333866257239
+      lng: 20.9880495068508
+    deal_count: 10
+  - company_name: Hilton Warsaw City
+    deal_description: 'Hilton Warsaw City deal description '
+    location:
+      lat: 52.2337830309755
+      lng: 20.9859263361505
+    deal_count: 10
+  - company_name: VicM home 2
+    deal_description: VicM  home 2 deal description
+    location:
+      lat: 52.23195
+      lng: 20.98787
+    deal_count: 10
+  - company_name: VicM home 3
+    deal_description: 'VicM  home 3 deal description '
+    location:
+      lat: 52.23215
+      lng: 20.98769
+    deal_count: 10
+  - company_name: VicM home 4
+    deal_description: 'VicM  home 3 deal description '
+    location:
+      lat: 52.23215
+      lng: 20.98769
+    deal_count: 10
+  - company_name: Apartments Platinum Towers
+    deal_description: 'Apartments Platinum Towers deal description '
+    location:
+      lat: 52.2333496823431
+      lng: 20.987947629498
+    deal_count: 10

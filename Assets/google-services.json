@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "166986211580",
+    "project_id": "ar-tourism-ad158",
+    "storage_bucket": "ar-tourism-ad158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166986211580:android:9097fc4afaf6ced39ef779",
+        "android_client_info": {
+          "package_name": "com.ouraycity.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166986211580-gupf51tgucjfncvfq86ai0u9afaq8r0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXQ3WMR_U0hSQePGlbJ9Ommbhtp-4VF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166986211580-gupf51tgucjfncvfq86ai0u9afaq8r0u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "166986211580-2fht5veqmsu5ga2d5hod3l4jgdootugf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ouraycity.www"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

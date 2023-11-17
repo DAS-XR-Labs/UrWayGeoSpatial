@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4247545101394690661
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4247545101394690659}
+  - component: {fileID: 4247545101394690660}
+  - component: {fileID: 4247545101394690658}
+  - component: {fileID: 675439881830840659}
+  m_Layer: 0
+  m_Name: GeospatialController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4247545101394690659
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4247545101394690661}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 833, y: 654, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4247545101394690660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4247545101394690661}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75a1114bd37d249b08c83cfbaf234679, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SessionOrigin: {fileID: 0}
+  Session: {fileID: 0}
+  AnchorManager: {fileID: 0}
+  EarthManager: {fileID: 0}
+  StreetscapeGeometryManager: {fileID: 0}
+  ARCoreExtensions: {fileID: 0}
+  StreetscapeGeometryMaterialTerrain: {fileID: 2100000, guid: 775ce3c1866ce4692b5d2cd9c1848a39, type: 2}
+  GeospatialPrefab: {fileID: 2319386834228601735, guid: 7ce854b90964c754bb549d527c2cf555, type: 3}
+  PrivacyPromptCanvas: {fileID: 0}
+  ARViewCanvas: {fileID: 0}
+  ClearAllButton: {fileID: 0}
+  SetAnchorButton: {fileID: 0}
+  InfoPanel: {fileID: 0}
+  InfoText: {fileID: 0}
+  SnackBarText: {fileID: 0}
+  DebugText: {fileID: 0}
+  NearbyPlacesDropdown: {fileID: 0}
+  displayCoords: {fileID: 0}
+  categoryDataSO: {fileID: 11400000, guid: bbabf76f5e8df46ec9af86c8096cac38, type: 2}
+  locationDataSO: {fileID: 11400000, guid: 8029c81b956bc4df487e9e74438ad0e6, type: 2}
+  heading: 25
+  spawnRadius: 99
+  locationDataScript: {fileID: 4247545101394690658}
+  placeInfo: {fileID: 0}
+  localizingIcon: {fileID: 0}
+  locationInfoPanel: {fileID: 0}
+  locationInfoController: {fileID: 0}
+  popupPanel: {fileID: 0}
+  uiRotate: {fileID: 0}
+  debugLat: 38.029688641368764
+  debugLong: -107.67283723162198
+  debugAltitude: 7700
+--- !u!114 &4247545101394690658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4247545101394690661}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7bf351a12b672140a5db08ed573762d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  locationDataContainer: {fileID: 11400000, guid: 8029c81b956bc4df487e9e74438ad0e6, type: 2}
+  placeInfo: {fileID: 0}
+--- !u!114 &675439881830840659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4247545101394690661}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00755b0389fbd474eb2aab5202952af0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  userPOI: 0
+  selectedLocationDataSO: {fileID: 11400000, guid: 8029c81b956bc4df487e9e74438ad0e6, type: 2}
+  locationDataSOs:
+  - {fileID: 11400000, guid: 23ab5b9bf547f42a480b8ae43fac3779, type: 2}
+  - {fileID: 11400000, guid: b56e1f30f545241fd86b8d71a59159dd, type: 2}
+  - {fileID: 11400000, guid: 4f31969a73d4640958fd953fb2928b6d, type: 2}
+  - {fileID: 11400000, guid: 6bbe5dc9889714f89899f39ccd3a9df8, type: 2}
+  - {fileID: 11400000, guid: 53fddf14469e446f790776a36e8865a3, type: 2}
+  geospatialController: {fileID: 4247545101394690660}
+  locationData: {fileID: 4247545101394690658}
+  arrow: {fileID: 0}
+  perimeterTrailSign: {fileID: 0}

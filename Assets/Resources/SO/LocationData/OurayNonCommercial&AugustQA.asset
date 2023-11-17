@@ -1,0 +1,1817 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0f45414e7e7a4166bdcc2a7739ed22b, type: 3}
+  m_Name: OurayNonCommercial&AugustQA
+  m_EditorClassIdentifier: 
+  dataSet:
+  - ID: Hayden Mountain
+    GeoData:
+      locationID: Hayden Mountain
+      locationName: Hayden Mountain
+      latitude: 37.954431073691026
+      longitude: -107.70252780853853
+      altitude: 13215
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Hayden Mountain
+      placeID: 
+      name: Hayden Mountain
+      stars: 0
+      website: 
+      address: Colorado 81432, United States
+      phone: 
+      hours: 
+      description: "Climbing Hayden Mountain is about as easy as a thirteener in
+        the San Juans can get: The trail\u2019s proximity to Red Mountain Pass means
+        you start at a higher elevation and have less overall climbing to do to reach
+        the summit, and you\u2019ll clear the treeline on an obvious, well-marked
+        trail (it\u2019s one of a few on this list you\u2019ll actually find on a
+        map). As the trail begins switchbacking up the hill from the highway, look
+        for brief views through the trees toward Red Mountains 1 and 2, gorgeous
+        and aptly named 12,000-plus foot peaks."
+      category: 5
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 2406e0da7126b43d28f0d555bbacd501, type: 3}
+  - ID: Cascade Mountain
+    GeoData:
+      locationID: Cascade Mountain
+      locationName: Cascade Mountain
+      latitude: 38.037752
+      longitude: -107.633841
+      altitude: 11640
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Cascade Mountain
+      placeID: 
+      name: Cascade Mountain
+      stars: 0
+      website: 
+      address: Ouray School District R-1, CO, USA
+      phone: 
+      hours: 
+      description: Head out on this 12.4-km out-and-back trail near Ouray, Colorado.
+        Generally considered a challenging route, it takes an average of 5 h 21 min
+        to complete. This is a popular trail for hiking, but you can still enjoy
+        some solitude during quieter times of day. The best times to visit this trail
+        are June through September
+      category: 5
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: b33856ea54ac24517813d2a65963f194, type: 3}
+  - ID: Baldy Peak
+    GeoData:
+      locationID: Baldy Peak
+      locationName: Baldy Peak
+      latitude: 38.11027
+      longitude: -107.6811707
+      altitude: 10574
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Baldy Peak
+      placeID: 
+      name: Baldy Peak
+      stars: 0
+      website: 
+      address: Colorado 81432, United States
+      phone: 
+      hours: 
+      description: 'Head out on this 15.8-km out-and-back trail near Bozeman, Montana.
+        Generally considered a challenging route. This is a popular trail for birding,
+        camping, and hiking, but you can still enjoy some solitude during quieter
+        times of day. The trail is open year-round and is beautiful to visit anytime. '
+      category: 5
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 7757ff9fe3529478da3f5bda6e1d82ac, type: 3}
+  - ID: Abrams Mountain
+    GeoData:
+      locationID: Abrams Mountain
+      locationName: Abrams Mountain
+      latitude: 37.9622171
+      longitude: -107.6406155
+      altitude: 12812
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Abrams Mountain
+      placeID: 
+      name: Abrams Mountain
+      stars: 0
+      website: 
+      address: Colorado 81432, United States
+      phone: 
+      hours: 
+      description: 'While only 12801 feet, Mount Abrams prominence and distinctive
+        profile when viewed from Ouray make the peak very compelling. Mount Abrams
+        is connected by a long ridge to Brown Mountain. There are nine "peaks" along
+        this ridge with the lowest point being 12450. Reports indicate that there
+        are concerns over private property issues to the peak from Brown Mountain
+        jeep road and along the western flanks, I did not see any signs of private
+        property when accessed from near Crystal lake, however there is private property
+        markers along Brown Mountain jeep road (but nothing to hinder an ascent). '
+      category: 5
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: d4bf6611d544e46d29ceb4c4fa856961, type: 3}
+  - ID: Whitehouse Mountain
+    GeoData:
+      locationID: Whitehouse Mountain
+      locationName: Whitehouse Mountain
+      latitude: 38.020308
+      longitude: -107.737945
+      altitude: 13510
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Whitehouse Mountain
+      placeID: 
+      name: Whitehouse Mountain
+      stars: 0
+      website: 
+      address: Whitehouse Mountain, Colorado 81432, United States
+      phone: 
+      hours: 
+      description: "Whitehouse Mountain forms the large northeast corner of the Sneffels
+        range west of Ouray. It is most noticeable from US-550 just south of Ridgeway.
+        Its large flat summit is protected with battlements of dramatic chalk-white
+        cliffs and spires. Isolated by the area\u2019s craggy canyons, the mountain
+        is difficult to approach. Photos below are taken from the north. Below described
+        approach is from the south. This is the view you get when driving to Ouray.
+        I looked at massive Whitehouse Mountain so many times, and finally I was
+        able to stand on its top. The views down to Ouray and over surrounding peaks
+        from the top are amazing."
+      category: 5
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: e975ea4846959437483b1eecf3ae372e, type: 3}
+  - ID: Twin Peaks
+    GeoData:
+      locationID: Twin Peaks
+      locationName: Twin Peaks
+      latitude: 38.0272156
+      longitude: -107.6992267
+      altitude: 10873
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Twin Peaks
+      placeID: 
+      name: Twin Peaks
+      stars: 0
+      website: 
+      address: Colorado 81432, United States
+      phone: 
+      hours: 
+      description: Twin Peaks is a mountain summit in Alamosa County, Colorado, United
+        States. Twin Peaks has an elevation of 4,132 metres.
+      category: 5
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: fc866ec13849b4ebfa461c345d26d6cc, type: 3}
+  - ID: Trico Peak
+    GeoData:
+      locationID: Trico Peak
+      locationName: Trico Peak
+      latitude: 37.9055504
+      longitude: -107.7383948
+      altitude: 13300
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Trico Peak
+      placeID: 
+      name: Trico Peak
+      stars: 0
+      website: 
+      address: Colorado 81435, United States
+      phone: 
+      hours: 
+      description: Trico Peak rises directly to the west of the 11018 ft Red Mountain
+        Pass on Route 550 in the San Juan Mountains of southwest Colorado. It belongs
+        to a long line of 13ers that make a continuous wall on the west side of Route
+        550 between the towns of Silverton and Ouray.
+      category: 5
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 6b0a2f569492446d8a4635aed0d6d36b, type: 3}
+  - ID: Sister Peak
+    GeoData:
+      locationID: Sister Peak
+      locationName: Sister Peak
+      latitude: 38.0283268
+      longitude: -107.6883933
+      altitude: 10282
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Sister Peak
+      placeID: 
+      name: Sister Peak
+      stars: 0
+      website: 
+      address: Colorado 81432, United States
+      phone: 
+      hours: 
+      description: 'Check out this 11.9-km out-and-back trail near Estes Park, Colorado.
+        Generally considered a challenging route. This is a very popular area for
+        hiking and snowshoeing, so you''ll likely encounter other people while exploring.
+        The trail is open year-round and is beautiful to visit anytime. '
+      category: 5
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 8c1ab7c22a03f4b7288e9071a9894380, type: 3}
+  - ID: Mount Sneffels
+    GeoData:
+      locationID: Mount Sneffels
+      locationName: Mount Sneffels
+      latitude: 38.0033265
+      longitude: -107.7922839
+      altitude: 14150
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Mount Sneffels
+      placeID: 
+      name: Mount Sneffels
+      stars: 0
+      website: 
+      address: Colorado 81432, United States
+      phone: 
+      hours: 
+      description: Soaring 14,150-ft. mountain with panoramic views, popular with
+        hikers & advanced mountaineers.
+      category: 5
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 674f23a5319ce4d04a8df72823006b8b, type: 3}
+  - ID: Miller Mesa
+    GeoData:
+      locationID: Miller Mesa
+      locationName: Miller Mesa
+      latitude: 38.083603
+      longitude: -107.7697827
+      altitude: 9216
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Miller Mesa
+      placeID: 
+      name: Miller Mesa
+      stars: 0
+      website: 
+      address: Colorado 81432, United States
+      phone: 
+      hours: 
+      description: Check out this 5.1-km out-and-back trail near Ridgway, Colorado.
+        Generally considered an easy route, it takes an average of 1 h 23 min to
+        complete. This trail is great for cross-country skiing and hiking, and it's
+        unlikely you'll encounter many other people while exploring.
+      category: 5
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: aff3229c3a2fb440ebfd85ce64962446, type: 3}
+  - ID: United States Mountain
+    GeoData:
+      locationID: United States Mountain
+      locationName: United States Mountain
+      latitude: 37.95655564106329
+      longitude: -107.73897811002264
+      altitude: 13036
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: United States Mountain
+      placeID: 
+      name: United States Mountain
+      stars: 0
+      website: 
+      address: Colorado 81432, United States
+      phone: 
+      hours: 
+      description: United States Mountain is a 13,036-foot-elevation (3,973-meter)
+        mountain summit located in Ouray County of southwest Colorado, United States.
+        It is situated six miles southwest of the community of Ouray, on land managed
+        by Uncompahgre National Forest. It is part of the Sneffels Range which is
+        a subset of the San Juan Mountains, which in turn is part of the Rocky Mountains.The
+        Hidden Treasure Mine is a gold mine located on the south slope at 11,759-feet
+        elevation.
+      category: 5
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 5ea17e6a797294c4fb48331aac334ec1, type: 3}
+  - ID: Chicago Peak
+    GeoData:
+      locationID: Chicago Peak
+      locationName: Chicago Peak
+      latitude: 37.94290244638047
+      longitude: -107.74412711729333
+      altitude: 13385
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Chicago Peak
+      placeID: 
+      name: Chicago Peak
+      stars: 0
+      website: 
+      address: Colorado 81432, United States
+      phone: 
+      hours: 
+      description: Chicago Peak is a 13,385-foot-elevation (4,080-meter) mountain
+        summit located on the shared boundary of San Miguel County with Ouray County
+        in southwest Colorado, United States. It is situated four miles (6.4 km)
+        east of the community of Telluride, on land managed by Uncompahgre National
+        Forest. It is part of the Sneffels Range which is a subset of the San Juan
+        Mountains, which in turn are part of the Rocky Mountains. It is set above
+        the ghost town of Tomboy, one mile (1.6 km) south of United States Mountain,
+        and one mile northwest of Imogene Pass. Mining activity in the immediate
+        area produced significant amounts of gold and silver.
+      category: 5
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 23ae2caf14c97f5488058954f04e8933, type: 3}
+  - ID: Potosi Peak
+    GeoData:
+      locationID: Potosi Peak
+      locationName: Potosi Peak
+      latitude: 37.9900205924889
+      longitude: -107.74922436340229
+      altitude: 13786
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Potosi Peak
+      placeID: 
+      name: Potosi Peak
+      stars: 0
+      website: 
+      address: Colorado 81432, United States
+      phone: 
+      hours: 
+      description: 'Potosi Peak is a 13,786-foot-elevation (4,202-meter) mountain
+        summit located in Ouray County of Colorado, United States. It is situated
+        five miles southwest of the community of Ouray, on land managed by Uncompahgre
+        National Forest. It is part of the Sneffels Range which is a subset of the
+        San Juan Mountains, which in turn is part of the Rocky Mountains. '
+      category: 5
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 3cce964aab378d4448ee5aef6824aafc, type: 3}
+  - ID: Cascade Falls
+    GeoData:
+      locationID: Cascade Falls
+      locationName: Cascade Falls
+      latitude: 38.02752685546875
+      longitude: -107.66151428222656
+      altitude: 8380
+      stars: 5
+      offset: 0
+      type: 0
+    Info:
+      ID: Cascade Falls
+      placeID: 
+      name: Cascade Falls
+      stars: 0
+      website: https://www.visitouray.com/waterfalls
+      address: Ouray, Colorado 81427
+      phone: (970) 325-3954
+      hours: 00:00 - 24:00
+      description: Cascade Falls is a beautiful waterfall located in Ouray, Colorado,
+        just a short distance from the town's center. This stunning waterfall is
+        easily accessible via a short, scenic hike through the lush forest of the
+        Uncompahgre National Forest. The falls cascade down a series of steps, with
+        each tier offering a unique and picturesque view. At the base of the falls,
+        visitors can take in the breathtaking scenery and cool off in the refreshing
+        spray of the falls. The surrounding area is also popular for hiking and wildlife
+        viewing, with numerous trails and lookout points offering panoramic views
+        of the surrounding mountains and forests. Cascade Falls is a must-see destination
+        for nature lovers and outdoor enthusiasts visiting Ouray, Colorado.
+      category: 2
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: f7a2fab8c90aa4cc59740b8e40415e52, type: 3}
+  - ID: "Box Ca\xF1on Falls"
+    GeoData:
+      locationID: "Box Ca\xF1on Falls"
+      locationName: "Box Ca\xF1on Falls"
+      latitude: 38.017594
+      longitude: -107.678794
+      altitude: 8200
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: "Box Ca\xF1on Falls"
+      placeID: 
+      name: "Box Ca\xF1on Falls"
+      stars: 0
+      website: https://www.visitouray.com/box-canyon-falls
+      address: 30 Box Canyon Rd, Ouray, CO 81427, United States
+      phone: (970) 325-3954
+      hours: 8AM - 8PM
+      description: "Enjoy an easy 500 foot walk into the thundering waterfalls! With
+        access to the high bridge, perimeter trail, and nature center. The Box Ca\xF1on
+        Falls is a must see in Ouray, Colorado! Box Ca\xF1on Falls is the culmination
+        of Canyon Creek before it joins the Uncompahgre River near Ouray. The water
+        plummets through a very narrow quartzite gorge with power and force."
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 20598e804da1e4fc3909eb63febedd3f, type: 3}
+  - ID: Perimeter Trail Start Point
+    GeoData:
+      locationID: Perimeter Trail Start Point
+      locationName: Perimeter Trail Start Point
+      latitude: 38.0297431860574
+      longitude: -107.672537688139
+      altitude: 7635
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Perimeter Trail Start Point
+      placeID: 
+      name: Perimeter Trail Start Point
+      stars: 0
+      website: https://www.visitouray.com/hiking
+      address: 
+      phone: 
+      hours: 
+      description: Perimeter Trail Welcome Center entrance. Check out this 5.4-mile
+        loop trail near Ouray, Colorado. Generally considered a moderately challenging
+        route. This is a very popular area for hiking, so you'll likely encounter
+        other people while exploring. The best times to visit this trail are May
+        through October. Dogs are welcome, but must be on a leash.
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 138d88906980e4d928f4d7f3f3ab6c1a, type: 3}
+  - ID: Cascade Falls Opening
+    GeoData:
+      locationID: Cascade Falls Opening
+      locationName: Cascade Falls Opening
+      latitude: 38.02534109384234
+      longitude: -107.66497903937675
+      altitude: 8100
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Cascade Falls Opening
+      placeID: 
+      name: Cascade Falls Opening
+      stars: 0
+      website: https://www.visitouray.com/hiking
+      address: Ouray County, CO 81427, USA
+      phone: 
+      hours: 
+      description: Explore this short steep trail or use it as the Perimeter Trail
+        Cascade Falls entrance. Check out this 5.4-mile loop trail near Ouray, Colorado.
+        Generally considered a moderately challenging route. This is a very popular
+        area for hiking, so you'll likely encounter other people while exploring.
+        The best times to visit this trail are May through October. Dogs are welcome,
+        but must be on a leash.
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: f000ed19b061e4c2b9b9b0ac13489848, type: 3}
+  - ID: Baby Bathtubs Opening
+    GeoData:
+      locationID: Baby Bathtubs Opening
+      locationName: Baby Bathtubs Opening
+      latitude: 38.017969082713385
+      longitude: -107.66527074647432
+      altitude: 8100
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Baby Bathtubs Opening
+      placeID: 
+      name: Baby Bathtubs Opening
+      stars: 0
+      website: https://www.visitouray.com/hiking
+      address: 
+      phone: 
+      hours: 
+      description: Explore this short easy trail or use it as the Perimeter Trail
+        Baby Bathtubs entrance. Check out this 5.4-mile loop trail near Ouray, Colorado.
+        Generally considered a moderately challenging route. This is a very popular
+        area for hiking, so you'll likely encounter other people while exploring.
+        The best times to visit this trail are May through October. Dogs are welcome,
+        but must be on a leash.
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: e2a1365e8d78742f09f5bf2f244141da, type: 3}
+  - ID: Perimeter Trail Opening
+    GeoData:
+      locationID: Perimeter Trail Opening
+      locationName: Perimeter Trail Opening
+      latitude: 38.01555602269019
+      longitude: -107.6751948900467
+      altitude: 8037
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Perimeter Trail Opening
+      placeID: 
+      name: Perimeter Trail Opening
+      stars: 0
+      website: https://www.visitouray.com/hiking
+      address: Ouray Mountain Rescue, State Hwy, Ridgway, CO 81432, United States
+      phone: 
+      hours: 
+      description: Perimeter Trail entrance. Check out this 5.4-mile loop trail near
+        Ouray, Colorado. Generally considered a moderately challenging route. This
+        is a very popular area for hiking, so you'll likely encounter other people
+        while exploring. The best times to visit this trail are May through October.
+        Dogs are welcome, but must be on a leash.
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: c805d4909c55e486caab213827242e6f, type: 3}
+  - ID: Pinecrest Rd Opening
+    GeoData:
+      locationID: Pinecrest Rd Opening
+      locationName: Pinecrest Rd Opening
+      latitude: 38.01921071402924
+      longitude: -107.67864794545596
+      altitude: 8000
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Pinecrest Rd Opening
+      placeID: 
+      name: Pinecrest Rd Opening
+      stars: 0
+      website: https://www.visitouray.com/hiking
+      address: Perimeter Trail, Ridgway, CO 81432, USA
+      phone: 
+      hours: 
+      description: 'Pinecrest Perimeter Trail entrance. Check out this 5.4-mile loop
+        trail near Ouray, Colorado. Generally considered a moderately challenging
+        route. This is a very popular area for hiking, so you''ll likely encounter
+        other people while exploring. The best times to visit this trail are May
+        through October. Dogs are welcome, but must be on a leash. '
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 482045229d190e64e98935a4eeaf5ad6, type: 3}
+  - ID: 5th Street Access Point
+    GeoData:
+      locationID: 5th Street Access Point
+      locationName: 5th Street Access Point
+      latitude: 38.021619
+      longitude: -107.667329
+      altitude: 7900
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: 5th Street Access Point
+      placeID: 
+      name: 5th Street Access Point
+      stars: 0
+      website: https://www.visitouray.com/hiking
+      address: 439 6th St, Ouray, CO 81427, USA
+      phone: 
+      hours: 
+      description: 5th Street Perimeter Trail entrance. Check out this 5.4-mile loop
+        trail near Ouray, Colorado. Generally considered a moderately challenging
+        route. This is a very popular area for hiking, so you'll likely encounter
+        other people while exploring. The best times to visit this trail are May
+        through October. Dogs are welcome, but must be on a leash.
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 7102c868bd668481d869eee2350dd826, type: 3}
+  - ID: Old Twin Peaks Trail
+    GeoData:
+      locationID: Old Twin Peaks Trail
+      locationName: Old Twin Peaks Trail
+      latitude: 38.0223119760191
+      longitude: -107.68012175554189
+      altitude: 8050
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Old Twin Peaks Trail
+      placeID: 
+      name: Old Twin Peaks Trail
+      stars: 0
+      website: https://www.hikingproject.com/trail/7030103/old-twin-peaks-trail
+      address: Ouray County, CO 81432, USA
+      phone: 
+      hours: 
+      description: "With two largely separate approaches to the summit, Twin Peaks
+        is probably one of the most attainable trails in Ouray, but that doesn\u2019t
+        deter from the solitude you'll find here.  Gaining all of its 1200 feet of
+        elevation in less than 0.7 miles, the old trail is the shortest and most
+        direct route. In the mid-80s, a devastating rockslide tore through the mountainside,
+        wiping this trail out. After nearly two decades, and only through extensive
+        trail work, the route was re-opened in 2004. Now, more than ten years later,
+        the trail is still holding up, thanks to 607 feet of cribbing put in place
+        to stabilize it. Knowing the fact that the route never strays from this unstable
+        talus slope, real caution should be taken. This trail is truly an undertaking,
+        but it\u2019s the most rewarding of the two options up Twin Peaks. Do heed
+        the \"steep and dangerous\" warnings posted at the onset."
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 41dfb63a61c924d63a4ee7cda7c83ab9, type: 3}
+  - ID: New Twin Peaks Trail
+    GeoData:
+      locationID: New Twin Peaks Trail
+      locationName: New Twin Peaks Trail
+      latitude: 38.02076468877677
+      longitude: -107.68002259374131
+      altitude: 8203
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: New Twin Peaks Trail
+      placeID: 
+      name: New Twin Peaks Trail
+      stars: 0
+      website: https://www.hikingproject.com/trail/7031776/new-twin-peaks-trail
+      address: Ouray School District R-1, CO, USA
+      phone: 
+      hours: 
+      description: Twin Peaks is one of Ouray's best kept secrets, despite boasting
+        arguably the best bird's-eye view in town. Giving wide berth to Oak Creek,
+        this roundabout route up Twin Peaks takes advantage of easier grades than
+        the more direct, but more lung-busting Old Twin Peaks Trail. Dropping about
+        eighty feet to cross Oak Creek at one point, the worst of it comes with a
+        500 foot climb to its intersection with the old trail.
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: de7717dcf85774406bf8a191c9c0adc6, type: 3}
+  - ID: Silvershield Trail
+    GeoData:
+      locationID: Silvershield Trail
+      locationName: Silvershield Trail
+      latitude: 38.03953350213313
+      longitude: -107.68219257084054
+      altitude: 7640
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Silvershield Trail
+      placeID: 
+      name: Silvershield Trail
+      stars: 0
+      website: https://ouraytrails.org/index.php/city-ouray-trails/silvershield
+      address: Ouray, CO, USA
+      phone: 
+      hours: 
+      description: Head out on this 6.6-km out-and-back trail near Ouray, Colorado.
+        Generally considered a challenging route, it takes an average of 2 h 58 min
+        to complete. This is a popular trail for hiking, running, and walking, but
+        you can still enjoy some solitude during quieter times of day.
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 9ed6ee67a472c4d1985633ad97aa29da, type: 3}
+  - ID: Chief Ouray Mine Trail Head
+    GeoData:
+      locationID: Chief Ouray Mine Trail Head
+      locationName: Chief Ouray Mine Trail Head
+      latitude: 38.02441600200047
+      longitude: -107.66287272465148
+      altitude: 8380
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Chief Ouray Mine Trail Head
+      placeID: 
+      name: Chief Ouray Mine Trail Head
+      stars: 0
+      website: https://www.adventurable.com/adventure/chief-ouray-mine
+      address: Ouray School District R-1, CO, USA
+      phone: 
+      hours: 
+      description: 'Check out this 6.9-km out-and-back trail near Ouray, Colorado.
+        Generally considered a challenging route, it takes an average of 3 h 17 min
+        to complete. This is a popular trail for birding, hiking, and horseback riding,
+        but you can still enjoy some solitude during quieter times of day. '
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: d3dde3c36c59c4d38889ca09361ad103, type: 3}
+  - ID: Old Horsethief/Goldbelt Trail
+    GeoData:
+      locationID: Old Horsethief/Goldbelt Trail
+      locationName: Old Horsethief/Goldbelt Trail
+      latitude: 38.0339896591919
+      longitude: -107.67439979078134
+      altitude: 7800
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Old Horsethief/Goldbelt Trail
+      placeID: 
+      name: Old Horsethief/Goldbelt Trail
+      stars: 0
+      website: https://www.hikingproject.com/trail/7032664/horsethief-trail
+      address: 1511 Main St, Ouray, CO 81427, USA
+      phone: 
+      hours: 
+      description: Experience a thrilling adventure that shuttles hikers high above
+        Ouray on one of the area's longest continuous trails.
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 431e81b28542246e9bc99dfe1bfff569, type: 3}
+  - ID: "Box Ca\xF1on Trail"
+    GeoData:
+      locationID: "Box Ca\xF1on Trail"
+      locationName: "Box Ca\xF1on Trail"
+      latitude: 38.0181579589844
+      longitude: -107.67779541015625
+      altitude: 7850
+      stars: 5
+      offset: 0
+      type: 0
+    Info:
+      ID: "Box Ca\xF1on Trail"
+      placeID: 
+      name: "Box Ca\xF1on Trail"
+      stars: 0
+      website: https://www.visitouray.com/box-canyon-falls
+      address: Colorado 81432, USA
+      phone: (970) 325-3954
+      hours: 8AM - 8PM
+      description: "Begin the trek to box Ca\xF1on falls"
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 43110bedcbfb853448afce479537108c, type: 3}
+  - ID: Uncompaghre River Walk Loop
+    GeoData:
+      locationID: Uncompaghre River Walk Loop
+      locationName: Uncompaghre River Walk Loop
+      latitude: 38.03009901912021
+      longitude: -107.673901277403
+      altitude: 7670
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Uncompaghre River Walk Loop
+      placeID: 
+      name: Uncompaghre River Walk Loop
+      stars: 0
+      website: https://www.visitouray.com/hiking
+      address: 1252 Main St, Ouray, CO 81427, USA
+      phone: 
+      hours: 
+      description: 'Get to know this 3.9-km loop trail near Ouray, Colorado. Generally
+        considered an easy route, it takes an average of 47 min to complete. This
+        is a popular trail for camping, hiking, and running, but you can still enjoy
+        some solitude during quieter times of day. The best times to visit this trail
+        are April through October. '
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: b0ab9838f278a4d06855078705118072, type: 3}
+  - ID: Sutton Mine Trail
+    GeoData:
+      locationID: Sutton Mine Trail
+      locationName: Sutton Mine Trail
+      latitude: 38.015737141434
+      longitude: -107.6762621667378
+      altitude: 8150
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Sutton Mine Trail
+      placeID: 
+      name: Sutton Mine Trail
+      stars: 0
+      website: https://www.hikingproject.com/trail/7030070/sutton-mine-trail-to-the-neosho-mine
+      address: 650 Camp Bird Rd, Ridgway, CO 81432, USA
+      phone: 
+      hours: 
+      description: The Sutton Mine trail is located off of the Camp Bird Road on
+        the southwest outskirts of Ouray, Colorado. The trail begins by climbing
+        steeply to the Ouray Overlook. From there the trail begins leveling off as
+        it works its way along the side of the mountain into the Uncompahgre River
+        Gorge. The ultimate destination of the trail is the historic Neosho Mine
+        where several buildings still remain. The trail offers incredible views of
+        the gorge from the side opposite of the Million Dollar Highway where it is
+        most commonly seen.
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 4af1a11babfa6483caed7b3bccf52d00, type: 3}
+  - ID: Ice Park Loop
+    GeoData:
+      locationID: Ice Park Loop
+      locationName: Ice Park Loop
+      latitude: 38.01597
+      longitude: -107.672683
+      altitude: 8050
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Ice Park Loop
+      placeID: 
+      name: Ice Park Loop
+      stars: 0
+      website: https://ourayicepark.com/
+      address: Ouray, Colorado 81427
+      phone: (970) 325-4288
+      hours: 8AM - 4PM
+      description: This is a great hike in a beautiful area. The trail was clearly
+        marked and well traveled. It is an easy hike with some elevation changes,
+        so kids should be able to handle it, though anyone looking for a flat, paved
+        walking trail may find it difficult. Along the trail here you can get some
+        nice looks at the Uncompaghre River, and there's a pond at the turnaround
+        point of the loop as well. If you're looking for a more challenging walk,
+        you can easily modify this route by adding any of the nearby trails as well.
+      category: 6
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: c20800167c8f54a98b8b80fa54d0f0fa, type: 3}
+  - ID: Visitor Center
+    GeoData:
+      locationID: Visitor Center
+      locationName: Visitor Center
+      latitude: 38.0295630737291
+      longitude: -107.672762323138
+      altitude: 7650
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Visitor Center
+      placeID: 
+      name: Visitor Center
+      stars: 0
+      website: https://www.visitouray.com/
+      address: 1230 Main St, Ouray, CO 81427, United States
+      phone: (970) 325-3954
+      hours: 9 am - 4 pm
+      description: "Let us be the first to welcome you to Ouray, the \u201COutdoor
+        Recreation Capitol of Colorado.\u201D Centrally located in Southwest Colorado,
+        Ouray is the perfect basecamp for your explorations, offering a treasure
+        trove of unique experiences all year long."
+      category: 4
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 138d88906980e4d928f4d7f3f3ab6c1a, type: 3}
+  - ID: Ouray Via Ferrata entrance
+    GeoData:
+      locationID: Ouray Via Ferrata entrance
+      locationName: Ouray Via Ferrata entrance
+      latitude: 38.015628
+      longitude: -107.676011
+      altitude: 8100
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Ouray Via Ferrata entrance
+      placeID: 
+      name: Ouray Via Ferrata entrance
+      stars: 0
+      website: http://ourayviaferrata.org/
+      address: 735 Main St, Ouray, CO 81427, United States
+      phone: 
+      hours: 8 am - 4 pm
+      description: The Ouray Via Ferrata is a brand new route in Ouray's Uncompahgre
+        Gorge. This is a technical via ferrata with many climbing, descending, and
+        traversing challenges.
+      category: 10
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 9cb3658201d3c48669fd3de0a39c2b3e, type: 3}
+  - ID: Rotary Park
+    GeoData:
+      locationID: Rotary Park
+      locationName: Rotary Park
+      latitude: 38.0443912953984
+      longitude: -107.68108615741144
+      altitude: 7780
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Rotary Park
+      placeID: 
+      name: Rotary Park
+      stars: 0
+      website: https://www.cityofouray.com/city_offices/city_resources/rotary_park.php
+      address: Colorado 81427, United States
+      phone: (970) 325-7065
+      hours: 8 am - 9 pm
+      description: Located approximately one mile north of the Ouray Hot Springs
+        Pool on Highway 550, Rotary Park is a multi-use park maintained by the City
+        of Ouray. Rotary Park has several picnic tables set comfortably in the shade
+        of a grove of tall spruce and fir trees. Many times rock climbers can be
+        seen on the tall cliff that immediately adjoins the border of Rotary Park.
+        A short walk to Chautauqua Lane, across the highway, leads to the Uncompahgre
+        River Trail.
+      category: 4
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: abdbde75ecc75442cb49975bea810037, type: 3}
+  - ID: The Pool Wall
+    GeoData:
+      locationID: The Pool Wall
+      locationName: The Pool Wall
+      latitude: 38.031125679683015
+      longitude: -107.67141732394666
+      altitude: 7802
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: The Pool Wall
+      placeID: 
+      name: The Pool Wall
+      stars: 0
+      website: https://www.visitouray.com/climbing
+      address: Ouray, CO 81432
+      phone: (970) 325-3954
+      hours: 
+      description: 'The Pool Wall has Ouray''s highest quantity of routes (over 70)
+        and the shortest approach. The rock is a type of sandstone, something like
+        that of Eldorado Canyon but blonde in color. That said, don''t go expecting
+        Eldorado Canyon like climbing. In some areas, the bands of sandstone are
+        separated by bands of shale (choss). '
+      category: 10
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: a2ed00a730a73427392875c89c36a011, type: 3}
+  - ID: The Sandias
+    GeoData:
+      locationID: The Sandias
+      locationName: The Sandias
+      latitude: 38.02222
+      longitude: -107.67927
+      altitude: 8176
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: The Sandias
+      placeID: 
+      name: The Sandias
+      stars: 0
+      website: https://www.visitouray.com/climbing
+      address: Ouray School District R-1, CO, USA
+      phone: (970) 325-3954
+      hours: 
+      description: home to one of the classic moderate (5.9) multi-pitch routes in
+        Ouray, Sendero Luminoso! Pitch after pitch takes you to the top of the Sandias
+        formation, offering up some of the best views in the valley. Also home to
+        easy-advanced sport and traditional climbs, you could climb in the Sandias
+        for an entire summer and not run out of routes to climb.
+      category: 10
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: aa28cd0139b99e746ac2d303bc35b22b, type: 3}
+  - ID: The Overlook Cliff
+    GeoData:
+      locationID: The Overlook Cliff
+      locationName: The Overlook Cliff
+      latitude: 38.0138
+      longitude: -107.6771
+      altitude: 8625
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: The Overlook Cliff
+      placeID: 
+      name: The Overlook Cliff
+      stars: 0
+      website: https://www.visitouray.com/
+      address: Ouray, CO 81432
+      phone: (970) 325-3954
+      hours: 00:00 - 24:00
+      description: This is a nice crag with pretty vistas. The routes are mostly
+        sport climbs in the 5.11 range. An approach is necessary.
+      category: 10
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: a76164530ebe5463a8d426ea9fb15dcc, type: 3}
+  - ID: Amphitheater Campground
+    GeoData:
+      locationID: Amphitheater Campground
+      locationName: Amphitheater Campground
+      latitude: 38.02246852417817
+      longitude: -107.66213189861841
+      altitude: 8440
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Amphitheater Campground
+      placeID: 
+      name: Amphitheater Campground
+      stars: 0
+      website: https://www.recreation.gov/camping/campgrounds/232275
+      address: Ouray, CO 81427, United States
+      phone: (877) 444-6777
+      hours: 00:00 - 24:00
+      description: Amphitheater Campground is located near the town of Ouray, Colo.,
+        at an elevation of 8,400 feet. Visitors enjoy the area for its beautiful
+        scenery and great hiking and off-road trail opportunities.
+      category: 4
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 9133d4506ffd74478a216d1b4f60fe5e, type: 3}
+  - ID: Angel Creek Campground
+    GeoData:
+      locationID: Angel Creek Campground
+      locationName: Angel Creek Campground
+      latitude: 38.002119188673745
+      longitude: -107.69397867179495
+      altitude: 8550
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Angel Creek Campground
+      placeID: 
+      name: Angel Creek Campground
+      stars: 0
+      website: https://www.fs.usda.gov/recarea/gmug/recreation/camping-cabins/recarea/?recid=32524&actid=29
+      address: 361 County Road, Ouray, CO 81427, United States
+      phone: (970) 240-5300
+      hours: 00:00 - 24:00
+      description: Angel Creek Campground is known for beautiful views of mature
+        aspens, the East Humboldt Mountain Range, and its proximity to Angel Lake.
+        In warmer months, wildflowers decorate the region, and the bubbling Angel
+        Creek flows gently through the campground, fostering no better backdrop for
+        your Rubies Route discoveries.
+      category: 4
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: fc1013f481ccd4b6f8d1653ed6cc2253, type: 3}
+  - ID: Thistledown Campground
+    GeoData:
+      locationID: Thistledown Campground
+      locationName: Thistledown Campground
+      latitude: 37.993663
+      longitude: -107.700364
+      altitude: 8750
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Thistledown Campground
+      placeID: 
+      name: Thistledown Campground
+      stars: 0
+      website: http://www.fs.usda.gov/recarea/gmug/recarea/?recid=32818
+      address: Camp Bird Rd, Ouray, CO 81427, United States
+      phone: (970) 874-6600
+      hours: 00:00-24:00
+      description: Thistledown Campground is adjacent to the historic site of Thistledown
+        and the Weehawken Trailhead in Canyon Creek near Ouray, CO. This campground
+        is heavily used by people planning to hike into Mount Sneffles & other nearby
+        trails, enjoying the wildflowers in Yankee Boy Basin or driving on the local
+        jeep trails. Tent camping is recommended.
+      category: 4
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 2090f6522b7a741b5ae6362af88f9825, type: 3}
+  - ID: Ouray Hot Springs Pool and Fitness Center
+    GeoData:
+      locationID: Ouray Hot Springs Pool and Fitness Center
+      locationName: Ouray Hot Springs Pool and Fitness Center
+      latitude: 38.02901077270508
+      longitude: -107.67259979248047
+      altitude: 7650
+      stars: 5
+      offset: 0
+      type: 0
+    Info:
+      ID: Ouray Hot Springs Pool and Fitness Center
+      placeID: 
+      name: Ouray Hot Springs Pool and Fitness Center
+      stars: 0
+      website: https://ourayhotsprings.com/fitness/
+      address: Ouray, CO 81432
+      phone: (970) 325-7073
+      hours: 11AM - 10PM
+      description: The Ouray Fitness Center includes a balanced mixture of cardio
+        machines, free weights and cable machines to meet your daily workout needs.
+      category: 14
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 82ed2f977d1c445a68e1f72852fdbfd4, type: 3}
+  - ID: Ouray Visitor Center Restroom
+    GeoData:
+      locationID: Ouray Visitor Center Restroom
+      locationName: Ouray Visitor Center Restroom
+      latitude: 38.029568197570555
+      longitude: -107.67284682095503
+      altitude: 7650
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Ouray Visitor Center Restroom
+      placeID: 
+      name: Ouray Visitor Center Restroom
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: Public Restroom for the Ouray Visitor Center
+      category: 1
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: Cascade Falls Restroom
+    GeoData:
+      locationID: Cascade Falls Restroom
+      locationName: Cascade Falls Restroom
+      latitude: 38.02494575296364
+      longitude: -107.6668323132362
+      altitude: 8100
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Cascade Falls Restroom
+      placeID: 
+      name: Cascade Falls Restroom
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: Public Restroom for Cascade Falls
+      category: 1
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: Fellin Park Restroom
+    GeoData:
+      locationID: Fellin Park Restroom
+      locationName: Fellin Park Restroom
+      latitude: 38.02812890097293
+      longitude: -107.6731006745059
+      altitude: 7650
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Fellin Park Restroom
+      placeID: 
+      name: Fellin Park Restroom
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: Public Restroom for Fellin Park
+      category: 1
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: Citizens State Bank Restroom
+    GeoData:
+      locationID: Citizens State Bank Restroom
+      locationName: Citizens State Bank Restroom
+      latitude: 38.022921333694285
+      longitude: -107.67212226568844
+      altitude: 7720
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Citizens State Bank Restroom
+      placeID: 
+      name: Citizens State Bank Restroom
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: Public Restroom for Citizen Bank
+      category: 1
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: City Hall Restroom
+    GeoData:
+      locationID: City Hall Restroom
+      locationName: City Hall Restroom
+      latitude: 38.02291310550393
+      longitude: -107.67067487612364
+      altitude: 7736
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: City Hall Restroom
+      placeID: 
+      name: City Hall Restroom
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: Public Restroom for City Hall
+      category: 1
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: Police Station
+    GeoData:
+      locationID: Police Station
+      locationName: Police Station
+      latitude: 38.023055415783176
+      longitude: -107.67029917604803
+      altitude: 7756
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Police Station
+      placeID: 
+      name: Police Station
+      stars: 0
+      website: http://www.cityofouray.com/
+      address: 320 6th Ave, Ouray, CO 81427, United States
+      phone: (970) 325-7068
+      hours: "6\u202FAM\u20135\u202FPM"
+      description: Public safety office
+      category: 3
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: ed2dc87a76d434265af67c0590798aaf, type: 3}
+  - ID: Library
+    GeoData:
+      locationID: Library
+      locationName: Library
+      latitude: 38.02291469152609
+      longitude: -107.67066617878442
+      altitude: 7736
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Library
+      placeID: 
+      name: Library
+      stars: 0
+      website: https://ouray.colibraries.org/
+      address: 320 6th Ave, Ouray, CO 81427, United States
+      phone: (970) 325-4616
+      hours: "10\u202FAM\u20135\u202FPM"
+      description: Public library
+      category: 3
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: ea7469019fa864c37ba9d8877ffdaa73, type: 3}
+  - ID: Lee Ski Hill
+    GeoData:
+      locationID: Lee Ski Hill
+      locationName: Lee Ski Hill
+      latitude: 38.01935629371145
+      longitude: -107.6691105281737
+      altitude: 7920
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Lee Ski Hill
+      placeID: 
+      name: Lee Ski Hill
+      stars: 0
+      website: https://www.cityofouray.com/city_offices/city_resources/lee_s_ski_hill.php
+      address: 475-499 3rd Ave, Ouray, CO 81427, United States
+      phone: (970) 325-7065
+      hours: Open 24 hours
+      description: 'It''s small, but definitely one of the gems of Colorado skiing!
+        Located on 3rd Avenue near 4th Street, Lee''s Ski Hill rope tow will be running
+        as conditions permit. Hours are noon to dusk on weekends and school holidays,
+        and 3:00 pm to dusk on weekdays. Skiers and snowboarders flock to Ouray''s
+        ski hill, especially after one of the famous San Juan Mountain storms leaves
+        a wallop of new snow. '
+      category: 4
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: c64020045c6134f5ab07f93d9b6194fd, type: 3}
+  - ID: Vinegar Sled Hill
+    GeoData:
+      locationID: Vinegar Sled Hill
+      locationName: Vinegar Sled Hill
+      latitude: 38.022672458199615
+      longitude: -107.66872726774496
+      altitude: 7830
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Vinegar Sled Hill
+      placeID: 
+      name: Vinegar Sled Hill
+      stars: 0
+      website: 445 6th Ave, Ouray, CO 81427, United States
+      address: 
+      phone: 
+      hours: 
+      description: For more than 100 years the City of Ouray has closed a one-block
+        section of 5th Street (between 5th and 6th Avenues) to provide a place for
+        the youth, and young at heart, to go sledding. This north-facing hill is
+        typically closed to vehicle traffic (but opened for sleds, tubes, and toboggans)
+        from Mid-December to early March, depending upon winter conditions.
+      category: 4
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: af5c19133294c4859bf2ae27c0cfa88a, type: 3}
+  - ID: "Woman\u2019s Park"
+    GeoData:
+      locationID: "Woman\u2019s Park"
+      locationName: "Woman\u2019s Park"
+      latitude: 38.02062396353128
+      longitude: -107.66839193645731
+      altitude: 7930
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: "Woman\u2019s Park"
+      placeID: 
+      name: "Woman\u2019s Park"
+      stars: 0
+      website: 
+      address: Ouray, CO 81427, United States
+      phone: 
+      hours: "4:30\u202FAM\u201310:30\u202FPM"
+      description: "This small park is located in a peaceful neighborhood at the
+        intersection of 4th Avenue and 5th Street. Established and maintained by
+        the Woman\u2019s Club of Ouray County the park includes picnic tables, a
+        small grassy play area, and playground equipment sized for toddlers and young
+        children. There are no restrooms located at this park."
+      category: 4
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: d3899272f0fe44c09a3c1ef49f89a0a4, type: 3}
+  - ID: Dog Park
+    GeoData:
+      locationID: Dog Park
+      locationName: Dog Park
+      latitude: 38.02466326102623
+      longitude: -107.673700484437
+      altitude: 7700
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Dog Park
+      placeID: 
+      name: Dog Park
+      stars: 0
+      website: https://ouraydogpark.wordpress.com/
+      address: Ouray, CO 81427, United States
+      phone: 
+      hours: 
+      description: In 2012 the City of Ouray set aside a parcel of land for our four
+        legged friends near downtown. The park is located at 101 8th Avenue and is
+        open from sunrise to sundown seven days a week for all well behaved dogs.
+      category: 4
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: a1821c69134b74111b3769264956d7d4, type: 3}
+  - ID: Rotary Park
+    GeoData:
+      locationID: Rotary Park
+      locationName: Rotary Park
+      latitude: 38.04438366570956
+      longitude: -107.6811698060138
+      altitude: 7830
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Rotary Park
+      placeID: 
+      name: Rotary Park
+      stars: 0
+      website: 
+      address: 14584 US-550, Ridgway, CO 81432, USA
+      phone: (970) 325-7065
+      hours: 
+      description: Located approximately one mile north of the Ouray Hot Springs
+        Pool on Highway 550, Rotary Park is a multi-use park maintained by the City
+        of Ouray. Rotary Park has several picnic tables set comfortably in the shade
+        of a grove of tall spruce and fir trees. Many times rock climbers can be
+        seen on the tall cliff that immediately adjoins the border of Rotary Park.
+        A short walk to Chautauqua Lane, across the highway, leads to the Uncompahgre
+        River Trail.
+      category: 4
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 52ca52efb0e664fd3ae69f85d6aee7a1, type: 3}
+  - ID: Fellin Park
+    GeoData:
+      locationID: Fellin Park
+      locationName: Fellin Park
+      latitude: 38.028031734069884
+      longitude: -107.6726341676767
+      altitude: 7650
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Fellin Park
+      placeID: 
+      name: Fellin Park
+      stars: 0
+      website: 
+      address: 1001 US-550, Ouray, CO 81427
+      phone: (970) 325-3954
+      hours: Open 24h
+      description: Fellin Park in Ouray, CO, is a true gem amidst the San Juan Mountains.
+        The park is in an ideal location for visitors to take in the town's charm
+        while enjoying the park's amenities.
+      category: 4
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 30de011819f9a4163b0a178788dfc4ea, type: 3}
+  - ID: Ouray Courthouse
+    GeoData:
+      locationID: Ouray Courthouse
+      locationName: Ouray Courthouse
+      latitude: 38.022514339211774
+      longitude: -107.66992080283427
+      altitude: 7825
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Ouray Courthouse
+      placeID: 
+      name: Ouray Courthouse
+      stars: 0
+      website: https://www.courts.state.co.us/Courts/County/Index.cfm?County_ID=19
+      address: 541 4th St, Ouray, CO 81427, United States
+      phone: (970) 325-4405
+      hours: "9\u202FAM\u201312\u202FPM 1\u20134\u202FPM"
+      description: 'The Ouray Combined Court is located in the historic Ouray County
+        Courthouse on the southeast corner of 4th Street and 6th Avenue in Ouray,
+        Colorado. The County Judge and two clerks are employed in this location,
+        with County Court held weekly. '
+      category: 3
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 4f243bed9e5cf42ffaee226f2ccb7159, type: 3}
+  - ID: Riverwalk North Corridor Bathroom
+    GeoData:
+      locationID: Riverwalk North Corridor Bathroom
+      locationName: Riverwalk North Corridor Bathroom
+      latitude: 38.043054
+      longitude: -107.683288
+      altitude: 7598
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Riverwalk North Corridor Bathroom
+      placeID: 
+      name: Riverwalk North Corridor Bathroom
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: 'Public Restroom '
+      category: 1
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 4f243bed9e5cf42ffaee226f2ccb7159, type: 3}
+  - ID: BZ Home Roof
+    GeoData:
+      locationID: BZ Home Roof
+      locationName: BZ Home Roof
+      latitude: 33.781044006347656
+      longitude: -117.86937713623047
+      altitude: 157
+      stars: 0
+      offset: 1.5
+      type: 1
+    Info:
+      ID: BZ Home Roof
+      placeID: 
+      name: BZ Home Roof
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: 
+      category: 27
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: Victory Diner WGS84
+    GeoData:
+      locationID: Victory Diner WGS84
+      locationName: Victory Diner WGS84
+      latitude: 33.78263854980469
+      longitude: -117.86788177490234
+      altitude: 157
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Victory Diner WGS84
+      placeID: 
+      name: Victory Diner WGS84
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: 
+      category: 27
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: BZ Backyard Terrain
+    GeoData:
+      locationID: BZ Backyard Terrain
+      locationName: BZ Backyard Terrain
+      latitude: 33.78084945678711
+      longitude: -117869984
+      altitude: 157
+      stars: 0
+      offset: 1.5
+      type: 2
+    Info:
+      ID: BZ Backyard Terrain
+      placeID: 
+      name: BZ Backyard Terrain
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: 
+      category: 0
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: Cucamonga Peak Terrain
+    GeoData:
+      locationID: Cucamonga Peak Terrain
+      locationName: Cucamonga Peak Terrain
+      latitude: 34.22294235229492
+      longitude: -117.58536529541016
+      altitude: 0
+      stars: 0
+      offset: 1.5
+      type: 2
+    Info:
+      ID: Cucamonga Peak Terrain
+      placeID: 
+      name: Cucamonga Peak Terrain
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: 
+      category: 27
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: Ontario Peak WGS84
+    GeoData:
+      locationID: Ontario Peak WGS84
+      locationName: Ontario Peak WGS84
+      latitude: 34.22776412963867
+      longitude: -117.6241226196289
+      altitude: 8696
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Ontario Peak WGS84
+      placeID: 
+      name: Ontario Peak WGS84
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: 
+      category: 27
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: "MD\u2019s Home Rooftop"
+    GeoData:
+      locationID: "MD\u2019s Home Rooftop"
+      locationName: "MD\u2019s Home Rooftop"
+      latitude: 34.12763595581055
+      longitude: -117.56322479248047
+      altitude: 8000
+      stars: 0
+      offset: 1.5
+      type: 1
+    Info:
+      ID: "MD\u2019s Home Rooftop"
+      placeID: 
+      name: "MD\u2019s Home Rooftop"
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: 
+      category: 0
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: Nick Wright Home
+    GeoData:
+      locationID: Nick Wright Home
+      locationName: Nick Wright Home
+      latitude: 39.4538688659668
+      longitude: -84.22310638427734
+      altitude: 800
+      stars: 0
+      offset: 1.5
+      type: 2
+    Info:
+      ID: Nick Wright Home
+      placeID: 
+      name: Nick Wright Home
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: 
+      category: 4
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: Lebanon Junior High School
+    GeoData:
+      locationID: Lebanon Junior High School
+      locationName: Lebanon Junior High School
+      latitude: 39.459896087646484
+      longitude: -84.2051773071289
+      altitude: 800
+      stars: 0
+      offset: 0
+      type: 0
+    Info:
+      ID: Lebanon Junior High School
+      placeID: 
+      name: Lebanon Junior High School
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: 
+      category: 0
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: United Food Mart
+    GeoData:
+      locationID: United Food Mart
+      locationName: United Food Mart
+      latitude: 39.45120620727539
+      longitude: -84.20502471923828
+      altitude: 800
+      stars: 0
+      offset: 1.5
+      type: 1
+    Info:
+      ID: United Food Mart
+      placeID: 
+      name: United Food Mart
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: 
+      category: 5
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: Zabka trrain
+    GeoData:
+      locationID: Zabka trrain
+      locationName: Zabka trrain
+      latitude: 52.232486724853516
+      longitude: 20.988248825073242
+      altitude: 120
+      stars: 0
+      offset: 1
+      type: 2
+    Info:
+      ID: Zabka trrain
+      placeID: Zabka trrain
+      name: Zabka
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: 
+      category: 27
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: CosinusRoof2
+    GeoData:
+      locationID: CosinusRoof2
+      locationName: CosinusRoof2
+      latitude: 52.231964111328125
+      longitude: 20.9884090423584
+      altitude: 120
+      stars: 0
+      offset: 1
+      type: 1
+    Info:
+      ID: CosinusRoof2
+      placeID: CosinusRoof2
+      name: CosinusRoof2
+      stars: 0
+      website: 
+      address: 
+      phone: 
+      hours: 
+      description: 
+      category: 27
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 0}
+  - ID: Cosmos Muzeum Warszawa
+    GeoData:
+      locationID: Cosmos Muzeum Warszawa
+      locationName: Cosmos Muzeum Warszawa
+      latitude: 52.258845909575484
+      longitude: 22.332192333302903
+      altitude: 120
+      stars: 4.1
+      offset: 1
+      type: 2
+    Info:
+      ID: Cosmos Muzeum Warszawa
+      placeID: 
+      name: Cosmos Muzeum Warszawa
+      stars: 4.1
+      website: http://www.cosmosmuzeum.pl/
+      address: "\u0141ucka 15/3, 00-842 Warszawa, Poland"
+      phone: +48501157610
+      hours: 9AM - 9PM
+      description: Cosmos Muzeum Warszawa
+      category: 27
+      extraCategoryFilter: 
+      photoRef: 
+      dispImage: {fileID: 21300000, guid: 300ee6600df52bd4fb072c90a0d2d6ed, type: 3}

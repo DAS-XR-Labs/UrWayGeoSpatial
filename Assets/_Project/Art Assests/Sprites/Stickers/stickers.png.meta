@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: 19eadc9e140fd44a6a9eae8724b4d708
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stickers_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 425
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f09c47c732243a99e96d062e8aabbc
+      internalID: -1927174858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickers_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 423
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb0d20f9258f4d9186afbc2bc8ddfc1
+      internalID: -878963716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickers_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 414
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dfd2ddcd28148299c43204af1493dd
+      internalID: -784892737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickers_17
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 419
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce95cffbbe4df4a1fa9a82a96cdf20a0
+      internalID: 1286677490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickers_41
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 274
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2670689a99c14fd099f9bcd9408a213
+      internalID: 1437427989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickers_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 279
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d54c8b1d11140409d4ce71d473f6cb
+      internalID: 432275676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickers_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 263
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8c78c82d9364e488236cb331268046
+      internalID: 1305976836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickers_50
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 268
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861e619f946b4412599c1766b4f6577e
+      internalID: -1337615757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickers_92
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 107
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f030b7c7ba124db8be77f22ef84f082
+      internalID: 4087289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickers_98
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 118
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f713c8cee3644baa506c2098f6a6fd
+      internalID: 1054808732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickers_105
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 107
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0ef61914650497e98fc24c1c1f60a9
+      internalID: 605683907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickers_122
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 119
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e9c8665c8fa4a90984ffb786b327ad
+      internalID: -165812115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8a5ae28d896d54f1da7266e0984bcc8d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stickers_0: -523580077
+      stickers_1: -1840519557
+      stickers_10: -1927174858
+      stickers_100: 2014472623
+      stickers_101: -1294641843
+      stickers_102: 1578309366
+      stickers_103: 312427051
+      stickers_104: 1468724472
+      stickers_105: 605683907
+      stickers_106: 788131732
+      stickers_107: 943120239
+      stickers_108: 1889462011
+      stickers_109: -620759743
+      stickers_11: 1675855591
+      stickers_110: 15177554
+      stickers_111: 1727086526
+      stickers_112: 2038645768
+      stickers_113: 1674130312
+      stickers_114: 1712004667
+      stickers_115: 240336375
+      stickers_116: 632911018
+      stickers_117: -2080733561
+      stickers_118: -974795926
+      stickers_119: -313005125
+      stickers_12: 1220393260
+      stickers_120: 1327375114
+      stickers_121: 1935706200
+      stickers_122: -165812115
+      stickers_123: 213061691
+      stickers_124: -2110526856
+      stickers_125: 193815198
+      stickers_126: -1499289654
+      stickers_127: 1699501581
+      stickers_128: 1880907769
+      stickers_129: -1951023425
+      stickers_13: -2061456090
+      stickers_130: -1145565114
+      stickers_131: -1896877350
+      stickers_132: -1456592081
+      stickers_133: -1425270250
+      stickers_134: 1381178620
+      stickers_135: -1920668102
+      stickers_136: 1740339066
+      stickers_137: 1724164567
+      stickers_138: 182852378
+      stickers_139: 673749095
+      stickers_14: -878963716
+      stickers_140: -537260770
+      stickers_141: -1409357234
+      stickers_142: -1447884143
+      stickers_143: -1481248986
+      stickers_144: 1118400392
+      stickers_15: -929272015
+      stickers_16: -784892737
+      stickers_17: 1286677490
+      stickers_18: 417900083
+      stickers_19: 1167139912
+      stickers_2: -1699807026
+      stickers_20: -1756219908
+      stickers_21: 934874176
+      stickers_22: -298178814
+      stickers_23: 344519248
+      stickers_24: 1415568912
+      stickers_25: -1491479398
+      stickers_26: 1187984761
+      stickers_27: -1681201590
+      stickers_28: 1708609085
+      stickers_29: -1179666897
+      stickers_3: 675527937
+      stickers_30: -1629722030
+      stickers_31: 102421609
+      stickers_32: 1248387135
+      stickers_33: 1080833688
+      stickers_34: -341714059
+      stickers_35: -787115227
+      stickers_36: 1566337800
+      stickers_37: -503358994
+      stickers_38: 1538561764
+      stickers_39: 1363587644
+      stickers_4: 806325552
+      stickers_40: 1670120861
+      stickers_41: 1437427989
+      stickers_42: -1753964591
+      stickers_43: 432275676
+      stickers_44: 830614864
+      stickers_45: 1305976836
+      stickers_46: -1079970564
+      stickers_47: 1049737609
+      stickers_48: 672200479
+      stickers_49: -823774018
+      stickers_5: 1858974523
+      stickers_50: -1337615757
+      stickers_51: -1659011084
+      stickers_52: -2109752252
+      stickers_53: 165775550
+      stickers_54: -1531130679
+      stickers_55: -1702853968
+      stickers_56: -186903745
+      stickers_57: 100261481
+      stickers_58: 197211432
+      stickers_59: -819231679
+      stickers_6: -1013244047
+      stickers_60: -1768240144
+      stickers_61: -1089040556
+      stickers_62: -2091546211
+      stickers_63: -893678876
+      stickers_64: -980370501
+      stickers_65: 976332356
+      stickers_66: -1598254237
+      stickers_67: 628670443
+      stickers_68: 293943841
+      stickers_69: 1048753147
+      stickers_7: 1688857917
+      stickers_70: -2142224997
+      stickers_71: 1854164068
+      stickers_72: 6992225
+      stickers_73: -2040940184
+      stickers_74: -1000275816
+      stickers_75: 349967460
+      stickers_76: 918791084
+      stickers_77: 557785999
+      stickers_78: -1475367034
+      stickers_79: 845967904
+      stickers_8: 46570507
+      stickers_80: -1762846630
+      stickers_81: -695040703
+      stickers_82: 1622196242
+      stickers_83: -1417307020
+      stickers_84: 172107582
+      stickers_85: -398498823
+      stickers_86: -353119966
+      stickers_87: -1810110083
+      stickers_88: 952632722
+      stickers_89: -1517228567
+      stickers_9: -49794261
+      stickers_90: -2029245315
+      stickers_91: -1723145636
+      stickers_92: 4087289
+      stickers_93: -1914189715
+      stickers_94: -1812153164
+      stickers_95: 1861850973
+      stickers_96: 445476125
+      stickers_97: -1963762552
+      stickers_98: 1054808732
+      stickers_99: -1940333919
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
