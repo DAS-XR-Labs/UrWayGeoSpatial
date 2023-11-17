@@ -10,16 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Localization-String-Tables-Korean (ko)
+  m_Name: Localization-String-Tables-Korean
   m_EditorClassIdentifier: 
-  m_GroupName: Localization-String-Tables-Korean (ko)
+  m_GroupName: Localization-String-Tables-Korean
   m_Data:
     m_SerializedData: []
-  m_GUID: 31a5c0ff31068da4bb51951a20d514ad
-  m_SerializeEntries: []
+  m_GUID: ed12d33031488954c8e9d9a5a8d07725
+  m_SerializeEntries:
+  - m_GUID: b28fc5e6207d848e7a76edc85677ec3d
+    m_Address: ReasonsUX_ko
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 78bdf713d65ad406e94552981323526a, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 4dc65f8720836bb40a9b2b86630327a8, type: 2}
-    - {fileID: 11400000, guid: 291ddc72707fc644b99346916472b66e, type: 2}
+    - {fileID: 11400000, guid: 5bee9ba3af39a6f4d833dc58dea5b57a, type: 2}
+    - {fileID: 11400000, guid: d72ddeccd7c95534a800147a992580cd, type: 2}

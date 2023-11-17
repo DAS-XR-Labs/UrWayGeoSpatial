@@ -8,18 +8,7 @@ namespace DAS.Urway
     [Serializable]
     public enum UserPOI
     {
-        NickC = 4,
-        BrennanZ = 3,
-        EvanC = 5,
-        LucaB = 6,
-        NickB = 7,
-        NickW = 2,
-        SerhiiK = 8,
-        DanielP = 9,
         OurayNonCommercialLocations = 0,
-        IanT = 10,
-        VicM = 4,
-        MichaelD = 1,
     }
 
     [ExecuteInEditMode]
