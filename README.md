@@ -34,4 +34,8 @@ To incorporate a new Point of Interest (POI) dataset, follow these steps:
 - `RouteMe.cs` - handles routing and navigating the user to destinations POI
 - `POINotificationController.cs` - manages local notifications. Registers notifications for nearby deals based on location triggers.
 The iOS system limits the number of location-based triggers that it schedules at the same time up to 64.
-- `DealsManager.cs` - receives a list of deals from the server and manages them. Contains a local list of mock deals for dev testing. 
+- `DealsManager.cs` - receives a list of deals from the server and manages them. Contains a local list of mock deals for dev testing.
+
+## Instructions
+Please follow the written instructions on how to connect API keys and create custom Location data
+https://drive.google.com/file/d/1OqholyejLRWwGXLBJv63WuANPdislJ16/view?usp=sharing
